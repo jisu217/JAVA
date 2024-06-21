@@ -1,0 +1,14 @@
+class PostfixOp {
+    public static void main(String[] args){
+
+    int num = 5;
+
+    System.out.print((num++) + ""); 
+    System.out.print ((num++) + " ");
+    System.out.print(num + "\n"); //5 6 7
+ 
+    System.out.print((num--) + " ");
+    System.out.print ((num--) + " ");
+    System.out.print(num); //7 6 5
+}
+}
