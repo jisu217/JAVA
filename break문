@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         int num = 1;
         boolean search = false;  // 변수를 명시적으로 초기화하여 조건을 만족하는 숫자를 찾지 못했음을 명확히 나타내기 위함
         
@@ -10,7 +11,7 @@ public class Main {
             }
             num++;
         }
-        
+
         if(search)
             System.out.println("찾는 정수: " + num);
         else
