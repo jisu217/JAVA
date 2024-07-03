@@ -27,6 +27,7 @@ public static void main(String[] args) {
 }
 
 // ----------------------------------
+
 class Person {
    private int regiNum;    // 주민등록 번호
    private int passNum;    // 여권 번호
