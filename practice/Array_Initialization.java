@@ -16,8 +16,8 @@ public class Array_Initialization {
             System.out.println();
         }
     }
+}
 
 // 11
 // 22 33
 // 44 55 66
-}
