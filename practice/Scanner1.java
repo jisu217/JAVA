@@ -10,5 +10,4 @@ public class Scanner1 {
             System.out.println(strInput);
         }
     }
-
 }
