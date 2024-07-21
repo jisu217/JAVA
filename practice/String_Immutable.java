@@ -7,5 +7,4 @@ public class String_Immutable {
     public static void main(String[] args) {
         String str1 = "Simple String";
         String str2 = str1;
-
     }
