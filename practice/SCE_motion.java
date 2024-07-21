@@ -18,5 +18,4 @@ public class SCE_motion {
             System.out.println("num2 = " + num2);
         }
     }
-
 }
