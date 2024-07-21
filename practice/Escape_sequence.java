@@ -10,5 +10,4 @@ public class Escape_sequence {
             System.out.println("AB" + '\r' + 'c'); // CB
         }
     }
-
 }
