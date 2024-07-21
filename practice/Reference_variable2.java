@@ -36,5 +36,4 @@ public class Reference_variable2 {
         ph2.answer();
         // ph2.playApp();
     }
-
 }
