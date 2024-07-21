@@ -31,7 +31,7 @@ public class IS_A {
         phone.answer();   // 전화를 받는다.
         phone.playApp();   // 앱을 선택하고 실행한다.
     }
+}
 
 // Hi~ from 010-555-777
 // App is running in Nougat
-}
