@@ -18,8 +18,8 @@ public class switche {
 
     System.out.println("Do you like Java?");
 }
-
-//Fantastic Java
-//The best programming language
-//Do you like Java?
 }
+
+// Fantastic Java
+// The best programming language
+// Do you like Java?
