@@ -23,6 +23,7 @@ public class GCD {
             return answer;
         }
     }
+    }
 
 // 최대공약수(GCD)를 구하는 유클리드 호제법
 // public int GCD(int num1, int num2) {
@@ -44,5 +45,3 @@ public class GCD {
 // 3 % 1 = 0 (나머지 0)
 // num1 % num2가 0이므로 return 1을 반환
 // 따라서, GCD(7, 4)의 결과는 1. 즉, 7과 4의 최대공약수는 1
-
-}
