@@ -20,5 +20,4 @@ public class Parameters {
             System.out.println("다음에 뵙겠습니다.");
         }
     }
-
 }
