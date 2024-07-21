@@ -14,5 +14,3 @@ public class Array_Copy_Metho {
           // 복사할 요소의 수: length
 
 }
-
-//
