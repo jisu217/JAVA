@@ -29,8 +29,6 @@ public class Overloading_keyword_this {
         hong.showPersonalInfo();
     }
 
-// ----------------------------------
-
     class Person {
         private int regiNum;    // 주민등록 번호
         private int passNum;    // 여권 번호
