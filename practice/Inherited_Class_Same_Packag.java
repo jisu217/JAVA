@@ -12,8 +12,6 @@ public class Inherited_Class_Same_Packag {
         }
     } // ZZZ.java - 디폴트 패키지: 패키지 선언이 되어 있지 않은 클래스들을 하나의 패키지로 묶기 위한 개념
 
-// -----------------------------------------------
-
 package zoo; -> or animal
 
     class Duck {
