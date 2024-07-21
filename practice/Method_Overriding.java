@@ -28,5 +28,4 @@ public class Method_Overriding {
         c2.yummy(); // Yummy Strawberry Cheese Cake
         c3.yummy(); // Yummy Strawberry Cheese Cake
     }
-
 }
