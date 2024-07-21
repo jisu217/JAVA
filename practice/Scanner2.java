@@ -29,5 +29,4 @@ public class Scanner2 {
             System.out.println(z);
         }
     }
-
 }
