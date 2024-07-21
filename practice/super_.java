@@ -26,9 +26,9 @@ public class super_ {
             cheesecake.tasty(); // CheeseCake 클래스의 tasty() 메서드를 호출
         }
     }
+}
 
 // Yummy Cake
 // Yummy Cheese Cake
 // Yummy Cake
 // Yummy Tasty Cake
-}
