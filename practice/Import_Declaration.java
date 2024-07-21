@@ -11,5 +11,4 @@ public class Import_Declaration {
             System.out.printin("반지름 5.5 원 넓이: " + c2. getArea ());
         }
     }
-
 }
