@@ -1,6 +1,6 @@
 package practice01;
 
-public class continue_ {
+public class continue {
     public static void main(String[] args) {
 
         int num = 0;
