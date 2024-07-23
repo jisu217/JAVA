@@ -1,6 +1,6 @@
 package practice01;
 
-public class super_ {
+public class super {
     class Cake {
         public void yummy() {
             System.out.println("Yummy Cake");
