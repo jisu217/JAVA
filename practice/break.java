@@ -1,6 +1,6 @@
 package practice01;
 
-public class break_ {
+public class break {
     public class Main {
         public static void main(String[] args) {
             int num = 1;
