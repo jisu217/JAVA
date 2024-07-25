@@ -1,6 +1,6 @@
 import java.util.ArrayList; // java.util의 ArrayList를 사용
 
-public class ArrayListSample {
+public class Array_List_Sample {
     public static void main(String[] args) {
         ArrayList<String> myStringArrays = new ArrayList<String>();
 
