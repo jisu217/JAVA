@@ -6,12 +6,12 @@ public class Ex03_ContentsCompare {
         int cmp;
 
         // 인스턴스의 내용 비교
-        if (str1.equals(str3))
+        if (str1.equals(str3)) // equals: 두 문자열이 같은지
             System.out.println("두 문자열은 같습니다.");
         else
             System.out.println("두 문자열은 다릅니다.");
 
-        cmp = str1.compareTo(str2);
+        cmp = str1.compareTo(str2); // 두 문자열의 대소 관계 (작다, 같다, 크다)
 
         if (cmp == 0)
             System.out.println("두 문자열은 일치합니다.");
